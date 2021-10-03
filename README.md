@@ -1,1 +1,2 @@
-# End-to-End-Heart-Disease-ML
+# End-to-End-Heart-disease-predication model
+This model is 88% accurate to predict if a person has heart disease or not... 
